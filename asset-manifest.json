@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/The_Crazy_World/static/css/main.97ed5927.css",
+    "main.js": "/The_Crazy_World/static/js/main.2becad36.js",
+    "static/media/NFT-Exclusive-1.png": "/The_Crazy_World/static/media/NFT-Exclusive-1.ec7c8abe9ed456bb786e.png",
+    "static/media/NFT-Exclusive-3.png": "/The_Crazy_World/static/media/NFT-Exclusive-3.35b2396845ddce118f1c.png",
+    "static/media/Coleccion_PersonajesMisticos.png": "/The_Crazy_World/static/media/Coleccion_PersonajesMisticos.0b4b1f239f21a371164a.png",
+    "static/media/NFT-Exclusive-5.png": "/The_Crazy_World/static/media/NFT-Exclusive-5.2f00399f8d0b5b880c3f.png",
+    "static/media/NFT-Exclusive-2.png": "/The_Crazy_World/static/media/NFT-Exclusive-2.c65c59efb3d1e6b76d95.png",
+    "static/media/NFT-Portada-2.png": "/The_Crazy_World/static/media/NFT-Portada-2.8ee7f4ccc623de30c75c.png",
+    "static/media/NFT-Exclusive-4.png": "/The_Crazy_World/static/media/NFT-Exclusive-4.5726132bcb870f2d67f5.png",
+    "static/media/home.png": "/The_Crazy_World/static/media/home.7fc4253ec840bd813401.png",
+    "index.html": "/The_Crazy_World/index.html",
+    "main.97ed5927.css.map": "/The_Crazy_World/static/css/main.97ed5927.css.map",
+    "main.2becad36.js.map": "/The_Crazy_World/static/js/main.2becad36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ed5927.css",
+    "static/js/main.2becad36.js"
+  ]
+}
