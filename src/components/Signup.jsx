@@ -1,3 +1,4 @@
+import { Button } from "bootstrap";
 import React, { useEffect, useState } from "react";
 import signup from "../assets/Coleccion_PersonajesMisticos.png";
 
@@ -16,7 +17,14 @@ export default function Signup() {
           No te pierdas el lanzamiento de nuestros NFTs, En el Siguiente Boton lleva a la Coleccion Que esta en Open Sea.
           Que se habilitara el dia de la fecha que se publiquen en Open Sea.
           </p>
-           <button>Coleccion Open Sea</button>
+          <button >
+             <a href="https://opensea.io/">
+             Coleccion Open Sea
+             </a>
+              
+            
+          </button>
+          
         </div>
         <div className="image-container">
           <div className="image">
