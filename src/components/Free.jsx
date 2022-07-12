@@ -18,7 +18,10 @@ export default function Free() {
           </div>
           <h2 className="title">NFTs Exclusivos En la Colección</h2>
           <p className="description">
-          Estos NFT contienen sorpresas y recompensas por ser Exclusivos.
+          Estos NFTs Contienen Sorpresas y Recompensas por ser Exclusivos.
+          </p>
+          <p className="description">
+           Información Amplia en Esta Página del Proyecto en Desarrollo.
           </p>
         </div>
       </div>
@@ -28,7 +31,7 @@ export default function Free() {
             image={super1}
             series="Exclusive NFT"
             title="Moth Man"
-            price={2.99}
+            price={0.090}
             tag={12983}
             time={60}
           />
@@ -38,7 +41,7 @@ export default function Free() {
             image={release2}
             series="Exclusive NFT"
             title="Star Wars Soldier"
-            price={3.95}
+            price={0.090}
             tag="105"
             time={60}
           />

@@ -41,10 +41,10 @@ export default function Navbar({ changeTheme, currentTheme }) {
             <a href="#FasesProyecto">Procesos Del Proyecto</a>
           </li>
           <li>
-            <a href="#SaleInformation">Informacion de Venta</a>
+            <a href="#SaleInformation">Información de Ventas</a>
           </li>
           <li>
-           <a href="#Footer">Contactanos</a>
+           <a href="#Footer">Contáctanos</a>
           
            
           </li>

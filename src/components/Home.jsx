@@ -8,10 +8,10 @@ export default function Home() {
     <div id="Inicio"className="home">
       <div className="container">
         <div className="content">
-          <p className="sub-title">Proximos Lanzamiento</p>
-          <h1 className="title">Un NFT Como Ningun Otro</h1>
+          <p className="sub-title">Proximos Lanzamientos</p>
+          <h1 className="title">Un NFT Como Ningún Otro</h1>
           <p className="description">
-          No Te Pierdas el Lanzamiento de NuestroS NuevoS NFTs, Dichas Colección se Subirán a la Plataforma de Open Sean en la Fecha Mencionada a Continuación.
+          No Te Pierdas el Lanzamiento de Nuestros Nuevos NFTs, Dichas Colección se Subirán a la Plataforma de Open Sean en la Fecha Mencionada a Continuación.
           </p>
           <h1 className="title">Fecha De Lanzamiento</h1>
           <div  class="bg-6">

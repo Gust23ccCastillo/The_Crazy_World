@@ -10,9 +10,9 @@ export default function Like() {
           <div className="image">
             <img src={eth1} alt="eth1" />
           </div>
-          <h2 className="title">Un NFTs como ningún otro.</h2>
+          <h2 className="title">Un NFTs como Ningún otro.</h2>
           <p className="description">
-          Estos NFTs se venderan en Ethereum y Tambien otros en Solana, Esto varia segun su clasificacion.
+          Estos NFTs se Venderán en Ethereum y También otros en Solana, Esto varia Según su Clasificación.
           No te quedes sin el tuyo!!.                     
           </p>
           <p className="description">
@@ -23,9 +23,9 @@ export default function Like() {
           <div className="image">
             <img src={eth2} alt="eth2" />
           </div>
-          <h2 className="title">Un NFTs como ningún otro.</h2>
+          <h2 className="title">Un NFTs como Ningún otro.</h2>
           <p className="description">
-            Estos NFTs traen Recompesas y Regalias, asi como su metadato que sera unico y podras verrificar su autenticidad pronto, No te quedes sin el tuyo!!.   
+            Estos NFTs traen Recompesas y Regalías, asi como su Metadato que sera único y podras Verificar su Autenticidad Pronto, No te quedes sin el tuyo!!.   
           </p>
           <p className="description">
           ____________________The Crazy   World_________________________

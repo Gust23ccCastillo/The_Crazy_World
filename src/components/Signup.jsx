@@ -11,15 +11,15 @@ export default function Signup() {
     <div className="signup">
       <div className="container">
         <div className="content">
-          <p className="sub-title">NFTs of the Crazy World</p>
-          <h1 className="title">Un NFT como ningún otro</h1>
+          <p className="sub-title">________NFTs of The Crazy World_________</p>
+          <h1 className="title">Un NFT como Ningún otro.</h1>
           <p className="description">
-          No te pierdas el lanzamiento de nuestros NFTs, En el Siguiente Boton lleva a la Coleccion Que esta en Open Sea.
-          Que se habilitara el dia de la fecha que se publiquen en Open Sea.
+          No te Pierdas el Lanzamiento de Nuestros NFTs, En el Siguiente Botón lleva a la Colección que estará en Open Sea.
+          Se Habilitará el Dia de la Fecha Del Lanzamiento, Espera la Colección.
           </p>
           <button >
              <a href="https://opensea.io/">
-             Coleccion Open Sea
+             Colección Open Sea
              </a>
               
             

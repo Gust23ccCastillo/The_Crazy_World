@@ -18,7 +18,7 @@ export default function Footer() {
            <li><a href="#Inicio">Inicio</a></li>
            <li><a href="#NFTsExlusivos">NFTs Exclusivos </a></li>
            <li><a href="#FasesProyecto">Procesos Del Proyecto</a></li>
-           <li><a href="#SaleInformation">Informacion de Venta</a></li>
+           <li><a href="#SaleInformation">Información de Ventas</a></li>
        </ul>
 
       <div className="footer__socials">
